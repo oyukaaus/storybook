@@ -142,7 +142,7 @@
     "ts-node": "10.9.1",
     "ts-node-dev": "^2.0.0",
     "tsx": "^3.12.6",
-    "typescript": "5.0.4",
+    "typescript": "5.1.6",
     "url-loader": "^4.1.1",
     "vite": "4.3.9",
     "vite-plugin-eslint": "1.8.1",
